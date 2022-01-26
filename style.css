@@ -1,0 +1,86 @@
+body{
+    margin:0px;
+    padding:0px;
+    }
+    
+    .container{
+    text-align:center;
+    top-margin:23px;
+    background-color:#b6b6f4;
+    height:750px;
+    }
+    
+    table{
+    position: relative;
+    margin:auto;
+    top: 45px;
+    }
+    
+    input{
+    position: relative;
+    top: 55px;
+    height:85px;
+    width: 327px;
+    font-size:34px;
+    border-radius:10px;
+    background-color:whitesmoke;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-style:none;
+    font-family: 'Montserrat', sans-serif;
+    }
+    
+    .button{
+    position: relative;
+    top: 25px;
+    font-size:27px;
+    background-color:whitesmoke;
+    color:black;
+    width:75px;
+    height:75px;
+    margin:4px;
+    border-style:none;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px 2px gray;
+    font-family: 'Montserrat', sans-serif;
+    }
+    
+    .button:hover{
+    background-color: rgb(195, 235, 247);
+    }
+    
+    .calculator{
+    position:relative;
+    height: 630px;
+    top:70px;
+    background-color:white;
+    padding:8px;
+    border-radius:20px;
+    display:inline-block;
+    font-family: 'Montserrat', sans-serif;
+    }
+    
+    #enter{
+    position:absolute;
+    top:417px;
+    left:270px;
+    width:150px;
+    font-size:27px;
+    background-color:blue;
+    color:black;
+    height:75px;
+    border-radius:20px;
+    }
+    
+    #heading{
+    position: absolute;
+    font-size: 25px;
+    top: -6px;
+    left: 70px;
+    }
+    
+    #sign{
+    position: relative;
+    font-size: 15px;
+    top: 65px;
+    left: 0px;
+    }
